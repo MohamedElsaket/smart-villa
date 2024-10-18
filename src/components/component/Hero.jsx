@@ -23,7 +23,7 @@ const Hero = () => {
           magni eius?
         </p>
         <Link
-          to="/property"
+          to="/smart-villa/property"
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
         >
           <Button>GET STARTED</Button>

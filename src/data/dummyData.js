@@ -35,7 +35,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (25).jpg",
+    image: "./images/property (25).jpg",
   },
   {
     id: 2,
@@ -50,7 +50,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (26).jpg",
+    image: "./images/property (26).jpg",
   },
   {
     id: 3,
@@ -65,7 +65,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (27).jpg",
+    image: "./images/property (27).jpg",
   },
   {
     id: 4,
@@ -80,7 +80,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (28).jpg",
+    image: "./images/property (28).jpg",
   },
   {
     id: 5,
@@ -95,7 +95,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (29).jpg",
+    image: "./images/property (29).jpg",
   },
   {
     id: 6,
@@ -110,7 +110,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (30).jpg",
+    image: "./images/property (30).jpg",
   },
   {
     id: 7,
@@ -125,7 +125,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (31).jpg",
+    image: "./images/property (31).jpg",
   },
   {
     id: 8,
@@ -140,7 +140,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (32).jpg",
+    image: "./images/property (32).jpg",
   },
   {
     id: 9,
@@ -155,7 +155,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (33).jpg",
+    image: "./images/property (33).jpg",
   },
   {
     id: 10,
@@ -170,7 +170,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (34).jpg",
+    image: "./images/property (34).jpg",
   },
   {
     id: 11,
@@ -185,7 +185,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (35).jpg",
+    image: "./images/property (35).jpg",
   },
   {
     id: 12,
@@ -200,7 +200,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (36).jpg",
+    image: "./images/property (36).jpg",
   },
   {
     id: 13,
@@ -215,7 +215,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (37).jpg",
+    image: "./images/property (37).jpg",
   },
   {
     id: 14,
@@ -230,7 +230,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (38).jpg",
+    image: "./images/property (38).jpg",
   },
   {
     id: 15,
@@ -245,7 +245,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (39).jpg",
+    image: "./images/property (39).jpg",
   },
   {
     id: 16,
@@ -260,7 +260,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (10).jpg",
+    image: "./images/property (10).jpg",
   },
   {
     id: 17,
@@ -275,7 +275,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (21).jpg",
+    image: "./images/property (21).jpg",
   },
   {
     id: 18,
@@ -290,7 +290,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (20).jpg",
+    image: "./images/property (20).jpg",
   },
   {
     id: 19,
@@ -305,7 +305,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (13).jpg",
+    image: "./images/property (13).jpg",
   },
   {
     id: 20,
@@ -320,7 +320,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (18).jpg",
+    image: "./images/property (18).jpg",
   },
   {
     id: 21,
@@ -335,7 +335,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (17).jpg",
+    image: "./images/property (17).jpg",
   },
   {
     id: 22,
@@ -350,7 +350,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (16).jpg",
+    image: "./images/property (16).jpg",
   },
   {
     id: 23,
@@ -365,7 +365,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (15).jpg",
+    image: "./images/property (15).jpg",
   },
   {
     id: 24,
@@ -380,7 +380,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (2).jpg",
+    image: "./images/property (2).jpg",
   },
   {
     id: 25,
@@ -395,7 +395,7 @@ export const property = [
     dimensions: "3000 sq ft",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
-    image: "public/images/property (1).jpg",
+    image: "./images/property (1).jpg",
   },
 ];
 
@@ -404,7 +404,7 @@ export const testimonials = [
     id: 1,
     name: "Wabz Braize",
     role: "Front-end developer",
-    image: "public/images/avatar.png",
+    image: "./images/avatar.png",
     reviewText:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis porro ex perferendis, nulla consectetur consequuntur odio qui adipisci harum earum dolor, eius accusantium quia praesentium.",
   },
@@ -412,7 +412,7 @@ export const testimonials = [
     id: 2,
     name: "Ethan Hunt",
     role: "Backend engineer",
-    image: "public/images/avatar-1.png",
+    image: "./images/avatar-1.png",
     reviewText:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis porro ex perferendis, nulla consectetur consequuntur odio qui adipisci harum earum dolor, eius accusantium quia praesentium.",
   },
@@ -420,7 +420,7 @@ export const testimonials = [
     id: 3,
     name: "Raven Kent",
     role: "UI Designer",
-    image: "public/images/avatar-2.png",
+    image: "./images/avatar-2.png",
     reviewText:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis porro ex perferendis, nulla consectetur consequuntur odio qui adipisci harum earum dolor, eius accusantium quia praesentium.",
   },
@@ -431,117 +431,117 @@ export const feeds = [
     id: 1,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (1).jpg",
+    image: "./images/blog/blog (1).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 2,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (2).jpg",
+    image: "./images/blog/blog (2).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 3,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (3).jpg",
+    image: "./images/blog/blog (3).jpg",
     category: "interior",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 4,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (4).jpg",
+    image: "./images/blog/blog (4).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 5,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (5).jpg",
+    image: "./images/blog/blog (5).jpg",
     category: "interior",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 6,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (6).jpg",
+    image: "./images/blog/blog (6).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 7,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (7).jpg",
+    image: "./images/blog/blog (7).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 8,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (8).jpg",
+    image: "./images/blog/blog (8).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
   {
     id: 9,
     title: "Agency Is the capacity of an actor to act in a given..",
     date_posted: "january 29, 2023",
-    image: "public/images/blog/blog (9).jpg",
+    image: "./images/blog/blog (9).jpg",
     category: "architecture",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero beatae sit voluptas dolorum vel eligendi consectetur alias in veniam nostrum reiciendis cum labore fugiat ut ipsum quidem earum eaque v...",
     author: {
       name: "Wabweni Brian",
-      avatar: "public/images/avatar.png",
+      avatar: "./images/avatar.png",
     },
   },
 ];
@@ -551,49 +551,49 @@ export const teamMembers = [
     id: 1,
     name: "Wabz Braize",
     role: "Front-end developer",
-    image: "public/images/avatar.png",
+    image: "./images/avatar.png",
   },
   {
     id: 2,
     name: "Ethan Hunt",
     role: "Backend  engineer",
-    image: "public/images/avatar-1.png",
+    image: "./images/avatar-1.png",
   },
   {
     id: 3,
     name: "Raven Kent",
     role: "UI Designer",
-    image: "public/images/avatar-2.png",
+    image: "./images/avatar-2.png",
   },
   {
     id: 4,
     name: "John Doe",
     role: "Web developer",
-    image: "public/images/avatar-3.png",
+    image: "./images/avatar-3.png",
   },
   {
     id: 5,
     name: "John Doe",
     role: "Web developer",
-    image: "public/images/avatar-3.png",
+    image: "./images/avatar-3.png",
   },
   {
     id: 6,
     name: "Raven Kent",
     role: "UI Designer",
-    image: "public/images/avatar-2.png",
+    image: "./images/avatar-2.png",
   },
   {
     id: 7,
     name: "Ethan Hunt",
     role: "Backend  engineer",
-    image: "public/images/avatar-1.png",
+    image: "./images/avatar-1.png",
   },
   {
     id: 8,
     name: "Wabz Braize",
     role: "Front-end developer",
-    image: "public/images/avatar.png",
+    image: "./images/avatar.png",
   },
 ];
 
@@ -641,46 +641,46 @@ export const projects = [
     id: 1,
     name: "Apartment",
     number: 20,
-    image: "public/images/property (17).jpg",
+    image: "./images/property (17).jpg",
   },
   {
     id: 2,
     name: "Office",
     number: 23,
-    image: "public/images/property (1).jpeg",
+    image: "./images/property (1).jpeg",
   },
   {
     id: 3,
     name: "Townhouse",
     number: 36,
-    image: "public/images/property (21).jpg",
+    image: "./images/property (21).jpg",
   },
   {
     id: 4,
     name: "living room",
     number: 12,
-    image: "public/images/property (1).jpg",
+    image: "./images/property (1).jpg",
   },
   {
     id: 5,
     name: "Real estate",
     number: 36,
-    image: "public/images/property (20).jpg",
+    image: "./images/property (20).jpg",
   },
   {
     id: 6,
     name: "luxury apartment",
     number: 14,
-    image: "public/images/property (18).jpg",
+    image: "./images/property (18).jpg",
   },
 ];
 
 export const brands = [
-  "public/images/brands/airbnb.png",
-  "public/images/brands/cisco.png",
-  "public/images/brands/ebay.png",
-  "public/images/brands/microsoft.png",
-  "public/images/brands/uber.png",
+  "./images/brands/airbnb.png",
+  "./images/brands/cisco.png",
+  "./images/brands/ebay.png",
+  "./images/brands/microsoft.png",
+  "./images/brands/uber.png",
 ];
 
 export const focus = [
@@ -709,37 +709,37 @@ export const categories = [
     id: 1,
     name: "Apartments",
     number: 20,
-    image: "public/images/property (17).jpg",
+    image: "./images/property (17).jpg",
   },
   {
     id: 2,
     name: "Offices",
     number: 23,
-    image: "public/images/property (1).jpeg",
+    image: "./images/property (1).jpeg",
   },
   {
     id: 3,
     name: "Townhouse",
     number: 36,
-    image: "public/images/property (21).jpg",
+    image: "./images/property (21).jpg",
   },
   {
     id: 4,
     name: "living room",
     number: 12,
-    image: "public/images/property (1).jpg",
+    image: "./images/property (1).jpg",
   },
   {
     id: 5,
     name: "Real estates",
     number: 36,
-    image: "public/images/property (20).jpg",
+    image: "./images/property (20).jpg",
   },
   {
     id: 6,
     name: "Condors",
     number: 14,
-    image: "public/images/property (18).jpg",
+    image: "./images/property (18).jpg",
   },
 ];
 
@@ -817,28 +817,28 @@ export const socials = [
 export const ratings = [
   {
     id: 1,
-    image: "public/images/property (14).jpg",
+    image: "./images/property (14).jpg",
     rating: 4.3,
     name: "Luxury mansion in Oregon",
     price: "450, 000",
   },
   {
     id: 2,
-    image: "public/images/property (26).jpg",
+    image: "./images/property (26).jpg",
     rating: 4.3,
     name: "Luxury mansion in Oregon",
     price: "450, 000",
   },
   {
     id: 3,
-    image: "public/images/property (16).jpg",
+    image: "./images/property (16).jpg",
     rating: 4.3,
     name: "Luxury mansion in Oregon",
     price: "450, 000",
   },
   {
     id: 4,
-    image: "public/images/property (18).jpg",
+    image: "./images/property (18).jpg",
     rating: 4.3,
     name: "Luxury mansion in Oregon",
     price: "450, 000",
@@ -908,22 +908,22 @@ export const sellOrRent = [
 export const navbarLinks = [
   {
     name: "Home",
-    to: "/",
+    to: "/smart-villa/",
   },
   {
     name: "About Us",
-    to: "/about",
+    to: "/smart-villa/about",
   },
   {
     name: "Services",
-    to: "/services",
+    to: "/smart-villa/services",
   },
   {
     name: "Property",
-    to: "/property",
+    to: "/smart-villa/property",
   },
   {
     name: "Blog",
-    to: "/blog",
+    to: "/smart-villa/blog",
   },
 ];

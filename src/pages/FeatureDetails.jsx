@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom";
+
 import { property } from "../data/dummyData";
 import Title from "../components/common/Title";
 import { FaBed, FaWaveSquare } from "react-icons/fa";
@@ -27,7 +28,7 @@ const FeatureDetails = () => {
         }) => (
           <div key={id} className="grid grid-cols-8 gap-10 py-10">
             <div className="col-span-8 lg:col-span-3 rounded-xl overflow-hidden h-[250px] md:h-[350px]">
-              <img src={image} className="w-full h-full" />
+              <img src={`/smart-villa/${image}`} className="w-full h-full" />
             </div>
             <div className="col-span-8 lg:col-span-5 text-slate-100 lg:flex ">
               <div className="flex flex-col gap-5 lg:flex-1">

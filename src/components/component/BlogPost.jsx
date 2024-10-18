@@ -13,7 +13,7 @@ const BlogPost = () => {
       <Heading>latest newsfeeds</Heading>
       <ul className="grid grid-cols-2 gap-10 py-16">
         {feeds
-          .slice(0, pathname !== "/blog" ? 4 : 8)
+          .slice(0, pathname !== "/smart-villa/blog" ? 4 : 8)
           .map(({ id, title, date_posted, image, category, description }) => (
             <li
               key={id}
@@ -28,7 +28,7 @@ const BlogPost = () => {
                     onClick={() =>
                       window.scrollTo({ top: 0, behavior: "smooth" })
                     }
-                    to="/blog"
+                    to="/smart-villa/blog"
                   >
                     <span className="text-2xl">{category}</span> <br />
                     {title}
@@ -38,7 +38,7 @@ const BlogPost = () => {
                   by Wabweni Brian: {date_posted}
                 </p>
                 <p className="text-slate-400">{description}</p>
-                <ReadMoreButton to="/blog" />
+                <ReadMoreButton to="/smart-villa/blog" />
               </div>
             </li>
           ))}

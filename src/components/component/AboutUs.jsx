@@ -37,7 +37,7 @@ const AboutUs = () => {
           </li>
           <li className="mt-5">
             <Link
-              to="/about"
+              to="/smart-villa/about"
               onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
             >
               <Button>read more</Button>

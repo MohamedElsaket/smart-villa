@@ -10,47 +10,42 @@ import FeatureDetails from "../pages/FeatureDetails";
 import SavedProperty from "../pages/SavedProperty";
 
 const AppRouting = () => {
-  const router = createBrowserRouter(
-    [
-      {
-        path: "/",
-        element: <LayoutApp />,
-        children: [
-          {
-            path: "/",
-            element: <Home />,
-          },
-          {
-            path: "/about",
-            element: <About />,
-          },
-          {
-            path: "/services",
-            element: <ServicesPage />,
-          },
-          {
-            path: "/property",
-            element: <Property />,
-          },
-          {
-            path: "/property/featureDetails/:id",
-            element: <FeatureDetails />,
-          },
-          {
-            path: "/blog",
-            element: <Blogs />,
-          },
-          {
-            path: "/saved",
-            element: <SavedProperty />,
-          },
-        ],
-      },
-    ],
+  const router = createBrowserRouter([
     {
-      basename: "/smart-villa",
-    }
-  );
+      path: "/smart-villa/",
+      element: <LayoutApp />,
+      children: [
+        {
+          path: "/smart-villa/",
+          element: <Home />,
+        },
+        {
+          path: "/smart-villa/about",
+          element: <About />,
+        },
+        {
+          path: "/smart-villa/services",
+          element: <ServicesPage />,
+        },
+        {
+          path: "/smart-villa/property",
+          element: <Property />,
+        },
+        {
+          path: "/smart-villa/property/featureDetails/:id",
+          element: <FeatureDetails />,
+        },
+        {
+          path: "/smart-villa/blog",
+          element: <Blogs />,
+        },
+        {
+          path: "/smart-villa/saved",
+          element: <SavedProperty />,
+        },
+      ],
+    },
+  ]);
 
   return <RouterProvider router={router} />;
 };

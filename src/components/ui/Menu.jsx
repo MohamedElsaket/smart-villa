@@ -1,11 +1,10 @@
 import React from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { handleMenu } from "../../features/uiSlice";
 import { Link } from "react-router-dom";
 import { navbarLinks } from "../../data/dummyData";
 
 const Menu = () => {
-  const { open } = useSelector((state) => state.uiSlice);
   const dispatch = useDispatch();
   return (
     <div className="absolute left-0 top-0 bg-c-1 z-50 flex flex-col gap-10 px-10 mt-16 pt-10 opacity-90">

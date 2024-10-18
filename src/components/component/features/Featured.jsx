@@ -13,7 +13,11 @@ const Featured = () => {
       <Title className="mx-auto">featured</Title>
       <Heading>explore featured latest properties</Heading>
       <Features />
-      {pathname === "/property" ? "" : <ReadMoreButton to="/property" />}
+      {pathname === "/smart-villa/property" ? (
+        ""
+      ) : (
+        <ReadMoreButton to="/smart-villa/property" />
+      )}
     </div>
   );
 };

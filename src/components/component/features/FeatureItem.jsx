@@ -76,7 +76,7 @@ const FeatureItem = ({ item }) => {
       <div className="flex flex-col gap-5 p-5">
         <h2 className="font-bold text-xl flex items-center justify-between">
           <Link
-            to={`/property/featureDetails/${item.id}`}
+            to={`/smart-villa/property/featureDetails/${item.id}`}
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
             className="text-slate-300 group-hover:text-c-5 duration-200 "
           >
@@ -106,7 +106,7 @@ const FeatureItem = ({ item }) => {
             </li>
           </ul>
           <Link
-            to={`/property/featureDetails/${item.id}`}
+            to={`/smart-villa/property/featureDetails/${item.id}`}
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
             <Button>details</Button>

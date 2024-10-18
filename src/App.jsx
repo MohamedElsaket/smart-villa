@@ -1,8 +1,8 @@
 import { Provider } from "react-redux";
+import { Toaster } from "react-hot-toast";
 
 import AppRouting from "./routes/AppRouting";
 import store from "./redux/store";
-import { Toaster } from "react-hot-toast";
 
 const App = () => {
   return (

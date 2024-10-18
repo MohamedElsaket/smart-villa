@@ -5,7 +5,6 @@ import Menu from "../ui/Menu";
 import { BiBuildingHouse } from "react-icons/bi";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoSearchOutline } from "react-icons/io5";
-import { IoSunnyOutline } from "react-icons/io5";
 import { FiX } from "react-icons/fi";
 import { FaUser } from "react-icons/fa";
 import { handleMenu } from "../../features/uiSlice";

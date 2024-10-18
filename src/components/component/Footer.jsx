@@ -85,22 +85,22 @@ const Footer = () => {
           </h2>
           <ul className="flex flex-col gap-4 text-sm">
             <li className="hover:text-c-5 hover:pl-3 duration-200">
-              <Link onClick={handleClick} to="/about">
+              <Link onClick={handleClick} to="/smart-villa/about">
                 Adout Us
               </Link>
             </li>
             <li className="hover:text-c-5 hover:pl-3 duration-200">
-              <Link onClick={handleClick} to="/services">
+              <Link onClick={handleClick} to="/smart-villa/services">
                 Services
               </Link>
             </li>
             <li className="hover:text-c-5 hover:pl-3 duration-200">
-              <Link onClick={handleClick} to="/property">
+              <Link onClick={handleClick} to="/smart-villa/property">
                 Property
               </Link>
             </li>
             <li className="hover:text-c-5 hover:pl-3 duration-200">
-              <Link onClick={handleClick} to="/blog">
+              <Link onClick={handleClick} to="/smart-villa/blog">
                 Blog
               </Link>
             </li>
