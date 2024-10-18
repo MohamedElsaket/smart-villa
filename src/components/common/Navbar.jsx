@@ -51,7 +51,7 @@ const Navbar = () => {
             <IoSearchOutline />
           </li>
           <Link
-            to="/saved"
+            to="/smart-villa/saved"
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           >
             <li className="relative p-2 cursor-pointer rounded-full bg-c-3 hover:bg-c-1 transition-colors">
