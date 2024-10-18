@@ -48,7 +48,7 @@ const AppRouting = () => {
       },
     ],
     {
-      basename: "/smart-villa/",
+      basename: "/smart-villa",
     }
   );
 
